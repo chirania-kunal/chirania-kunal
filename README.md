@@ -33,8 +33,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kunalchirania&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunalchirania&theme=tokyonight" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=chirania-kunal&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chirania-kunal&theme=tokyonight" alt="GitHub Streak" height="165"/>
 </p>
 
 ---
@@ -49,7 +49,7 @@
 ## 🌟 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/kunal-chirania"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/kunalchirania"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" /></a>
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-9146FF?logo=vercel&logoColor=white" /></a>
+  <a href="mailto:chiraniakunal@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/chirania-kunal"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" /></a>
+<!--   <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-9146FF?logo=vercel&logoColor=white" /></a> -->
 </p>
